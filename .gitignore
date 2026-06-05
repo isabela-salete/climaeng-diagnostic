@@ -1,7 +1,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
-.streamlit/
+.streamlit/secrets.toml
 .ipynb_checkpoints/
 .DS_Store
 *.log

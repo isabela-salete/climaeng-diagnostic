@@ -192,7 +192,7 @@ if pagina == "1. Início e Contexto":
             <div style="background-color: #f0fdf4; border-left: 5px solid #22c55e; padding: 1.5rem; border-radius: 8px; height: 160px;">
                 <h4 style="margin: 0 0 0.5rem 0; color: #166534;">💡 Inovação e Qualidade</h4>
                 <p style="margin: 0; color: #334155; font-size: 0.9rem;">
-                    A liberdade para dissentir tecnicamente e propoe soluções alternativas aumenta a qualidade das revisões de design de engenharia em <b>30%</b>.
+                    A liberdade para dissentir tecnicamente e propor soluções alternativas aumenta a qualidade das revisões de design de engenharia em <b>30%</b>.
                 </p>
             </div>
             """, unsafe_allow_html=True
